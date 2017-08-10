@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=SteppingMode
+comment1.params=startNode
+comment1.target=void\ execute(Node)
+comment1.text=\r\n\ Starts\ the\ Stepping\ mode.\r\n\ @param\ startNode\ The\ first\ node\ in\ the\ chain.\r\n
+comment2.params=
+comment2.target=void\ waitForKeyPress()
+comment2.text=\r\n\ For\ hitting\ any\ key.\r\n
+numComments=3
