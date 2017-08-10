@@ -1,7 +1,7 @@
 # UML-Builder
 A text-based UML Builder
 
-This project was completed as a capstone project at WGU.
+This project was completed as a capstone project at WGU. The doc named Kevin's Tech Writing is the Project Proposal. The doc named Kevin's Capstone is the Lessons Learned document generated at the completion of the project. For convenience, the introduction of the Lessons Learned document is reproduced below:
 
 The purpose of the capstone project was to create a program which could be used to generate a text based version of a Unified Modeling Language (UML) diagram. A traditional UML diagram acts as a visual flowchart. It is used primarily in the planning process, but can also be used during quality control processes to verify that the code written adheres to the proposed project’s design.
 

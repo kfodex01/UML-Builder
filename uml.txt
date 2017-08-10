@@ -1,0 +1,23 @@
+2
+6 
+1 Put the two slices together.
+****Default Condition***
+*4
+2 Get jam, peanut butter, and two slices of bread.
+****Default Condition***
+*7
+3 Spread jam on the other slice of bread.
+****Default Condition***
+*1
+4 Do you like the crusts on, or the crusts off?
+*Crusts off
+*5
+*Crusts on
+*6
+5 Cut the crusts off.
+****Default Condition***
+*6
+6 Eat your sandwich.
+7 Spread peanut butter on one slice of bread.
+****Default Condition***
+*3
